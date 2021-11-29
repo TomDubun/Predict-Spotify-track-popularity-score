@@ -3,7 +3,9 @@
 # Objective
 
 This project is the last project undertaken at IronHack. It aims at 
+
 •	understanding the song patterns of French artists’ music 
+
 •	digesting the drivers of a song popularity on spotify to build machine learning algorithm and predict song popularity
 
 # Steps
