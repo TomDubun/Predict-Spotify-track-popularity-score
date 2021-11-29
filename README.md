@@ -26,7 +26,7 @@ Random Forest is the best performing algorithm for this dataset. It would then b
 
 # Libraries:
 
-pandas, seaborn, numpy
+pandas, seaborn, numpy, Spotify API, spotipy
 
 # Future works:
 
